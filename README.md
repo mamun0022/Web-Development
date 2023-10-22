@@ -1,1 +1,1 @@
-<h1> Make a fake idea about web development.</h1>
+<h1> Make a good idea about web development.</h1>
