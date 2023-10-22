@@ -1,0 +1,3 @@
+head --> meta tag, title
+body --> full content of the webpage
+define comment in HTML -->    <--!  -->
